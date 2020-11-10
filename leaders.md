@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Varadharajan Lakshmanan](mailto:varadharajan.lakshmanan@owasp.org)
+* [Mari Muthu](mailto:mari.muthu@owasp.org)
+* [Sudhakar Muthumani](mailto:sudhakar.muthumani@owasp.org)
