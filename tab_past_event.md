@@ -9,7 +9,6 @@ tags:Thoothukudi
 
 ---
 
-## OWASP Thoothukudi Events
 
 
 Upcoming Events
@@ -18,7 +17,6 @@ Upcoming Events
 Will be updated soon
 
 
-
-## Past Events
+Past Events
 
 We haven't done any events so far but will conduct many soon.
