@@ -41,4 +41,4 @@ Presentation time required
 Mail this to 
 * <a href="mailto:sudhakar.muthumani@owasp.org">Sudhakar Muthumani</a>
 * <a href="mailto: varadharajan.lakshmanan@owasp.org">Varadharajan Lakshmanan</a>
-* <a href="mail to: mari.muthu@owasp.org">Mari Muthu</a>
+* <a href="mailto: mari.muthu@owasp.org">Mari Muthu</a>
