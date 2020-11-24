@@ -3,7 +3,7 @@
 title: events
 displaytext: Past Events
 layout:  null
-tab: true
+tab: false
 order: 1
 tags:Thoothukudi
 
