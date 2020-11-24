@@ -1,7 +1,7 @@
 ---
 title: Past Event
 layout:  null
-tab: true
+tab: false
 order: 1
 tags: past-event-tag
 ---
