@@ -3,7 +3,7 @@
 title: events
 displaytext: Past Events
 layout:  null
-tab: false
+tab: true
 order: 1
 tags:Thoothukudi
 
@@ -19,4 +19,4 @@ Will be updated soon
 
 Past Events
 
-We haven't done any events so far but will conduct many soon.
+We have not done any events so far but will conduct many soon.
