@@ -1,11 +1,24 @@
 ---
-title: PastEvent
+
+title: events
+displaytext: Past Events
 layout:  null
-tab: false
+tab: true
 order: 1
-tags: past-event-tag
+tags: thoothukudi
+
 ---
 
-## Past Event
+## OWASP Thoothukudi Events
 
-We haven't conducted eny events in these days. We will conduct many soon
+
+Upcoming Events
+
+
+Will be updated soon
+
+
+
+Past Events
+
+We haven't done any events so far but will conduct many soon.
