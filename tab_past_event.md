@@ -1,22 +1,23 @@
+---
 
-
-title: events
+title: pastevents
 displaytext: Past Events
 layout:  null
 tab: true
 order: 1
-tags:Thoothukudi
+tags: Thoothukudi
+
+---
+
+## OWASP Thoothukudi Chapter Conducted and Upcoming events
 
 
 
+Upcoming events
+
+Will be updated soon!
 
 
-Upcoming Events
+Past events
 
-
-Will be updated soon
-
-
-Past Events
-
-We have not done any events so far but will conduct many soon.
+We have not conducted any events so far.
