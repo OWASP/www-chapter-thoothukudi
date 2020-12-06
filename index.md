@@ -54,20 +54,6 @@ Email Format :
 ## Follow Us
 
 [1] [Instagram](http://www.instagram.com/owasp_thoothukudi)
-[2] [Youtube] (https://www.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA?app=desktop)
-[3] [Telegram] (https://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q)
-<!--Standard chapter page template
-{front matter for this file}
+[2] [Youtube] (http://www.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA?app=desktop)
+[3] [Telegram] (http://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q)
 
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
--->
