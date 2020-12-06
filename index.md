@@ -2,9 +2,9 @@
 <div style=''>
 OWASP Thoothukudi was founded on November 2020. We provide security conferences and talks to spread the awareness about cybersecurity to the people's here. We have planned to conduct numerous meetups, security conferences and talks about cybersecurity to the rural people to spread awareness about cybersecurity.
   <ul>
-    <li><a href="sudhakar.muthumani@owasp.org">Sudhakar Muthumani</a></li>
-    <li><a href="varatharajan.lakshmanan@owasp.org">Varadharajan Lakshmananan</a></li>
-    <li><a href="mari.muthu@owasp.org">Mari Muthu</a></li>
+    <li><a href="mailto:sudhakar.muthumani@owasp.org">Sudhakar Muthumani</a></li>
+    <li><a href="mailto:varatharajan.lakshmanan@owasp.org">Varadharajan Lakshmananan</a></li>
+    <li><a href="mailto:mari.muthu@owasp.org">Mari Muthu</a></li>
   </ul>
 </div>
 
