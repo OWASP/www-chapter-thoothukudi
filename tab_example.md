@@ -6,6 +6,18 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Example Email Format
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Email Format :
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
