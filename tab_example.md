@@ -2,7 +2,7 @@
 title: Example
 layout:  null
 tab: true
-level:1
+order: 1
 tags: example-tag
 ---
 
