@@ -1,5 +1,5 @@
 ---
-title: SocialMedia
+title: Example
 layout:  null
 tab: true
 level:1
