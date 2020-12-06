@@ -54,7 +54,8 @@ Email Format :
 ## Follow Us
 
 [1] [Instagram](http://www.instagram.com/owasp_thoothukudi)
-
+[2] [Youtube] (https://www.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA?app=desktop)
+[3] [Telegram] (https://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q)
 <!--Standard chapter page template
 {front matter for this file}
 
