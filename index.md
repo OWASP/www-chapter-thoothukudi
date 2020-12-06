@@ -1,19 +1,7 @@
----
-
-layout: col-sidebar
-title: OWASP Thoothukudi
-tags: example-tag
-region: Asia
-
----
-
+## Welcome
 <div style=''>
 OWASP Thoothukudi was founded on November 2020. We provide security conferences and talks to spread the awareness about cybersecurity to the people's here. We have planned to conduct numerous meetups, security conferences and talks about cybersecurity to the rural people to spread awareness about cybersecurity.
-
 </div>
-
-## Welcome
-Include some information here about your chapter
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
