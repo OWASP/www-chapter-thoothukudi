@@ -56,7 +56,3 @@ Email Format :
 1. <a href="https://www.instagram.com/owasp_thoothukudi">Instagram</a>
 2. <a href="https://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q">Telegram</a>
 3. <a href="https://m.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA">Youtube</a>
-
-## Past Events
-
-1. November 8 - Basic awarness on cyber security (<a href="https://youtu.be/oiaAoXlG39A"> Link</a>)
