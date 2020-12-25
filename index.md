@@ -53,6 +53,7 @@ Email Format :
 
 ## Follow Us
 
-[1] [Instagram](http://www.instagram.com/owasp_thoothukudi)
-[2] [Youtube] (http://www.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA?app=desktop)
-[3] [Telegram] (http://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q)
+1. <a href="https://www.instagram.com/owasp_thoothukudi">Instagram</a>
+2. <a href="https://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q">Telegram</a>
+3. <a href="https://m.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA">Youtube</a>
+
