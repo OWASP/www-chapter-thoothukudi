@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Thoothukudi
-tags: thoothukudi
+tags: example-tag
 region: Asia
 
 ---
