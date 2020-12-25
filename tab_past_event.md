@@ -1,11 +1,12 @@
 ---
 title: Past Event
 layout:  null
-tab: false
+tab: true
+displaytext: Past Events
 order: 1
 tags: past-event-tag
 ---
 
 ## Past event
 
-We have not conducted any event till now. We are about to conduct many meetings in the upcoming time.
+[1] Awarness for School students of Vivekananda Vidhyashrama by Mr. Sriram, CTO of Primefort on Nov 8. link - https://youtu.be/oiaAoXlG39A 
