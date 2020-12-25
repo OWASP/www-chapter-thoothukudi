@@ -1,9 +1,9 @@
 ---
 title: Speaker
-layout:  col-sidebar
+layout: null
 tab: true
 order: 1
-tags: thoothukudi
+tags: example-tag
 ---
 
 ## Example Email Format
