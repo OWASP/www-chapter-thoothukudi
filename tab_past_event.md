@@ -9,4 +9,4 @@ tags: past-event-tag
 
 ## Past event
 
-[1] Awarness for School students of Vivekananda Vidhyashrama by Mr. Sriram, CTO of Primefort on Nov 8. link - https://youtu.be/oiaAoXlG39A 
+- [Awareness on cyber security for School students of Vivekananda Vidhyasharama by Mr. Sriram, CTO of Primefort](https://youtu.be/oiaAoXlG39A)
