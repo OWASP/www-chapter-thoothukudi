@@ -1,12 +1,19 @@
 ---
-title: Past Event
-layout:  null
-tab: true
-displaytext: Past Events
-order: 1
-tags: past-event-tag
+
+layout: col-sidebar
+title: OWASP thoothukudi
+site_side: true
+tags: thoothukudi
+level: 3
+region: Asia
+currency: inr
+meetup-group: OWASP-Thoothukudi
+country: India
+postal-code: 
+
 ---
+<!-- rebuild -->
 
-## Past event
-
-- [Awareness on cyber security for School students of Vivekananda Vidhyasharama by Mr. Sriram, CTO of Primefort](https://youtu.be/oiaAoXlG39A)
+OWASP Thoothukudi
+-------------
+[Awareness for school students of Vivekananda Vidhyasharama by Mr. Sriram, CTO of Primefort on Nov 8](https://youtu.be/oiaAoXlG39A)
