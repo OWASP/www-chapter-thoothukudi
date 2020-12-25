@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP thoothukudi
 site_side: true
+tab: false
 tags: example-tag
 level: 3
 region: Asia
