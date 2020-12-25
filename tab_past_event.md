@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP thoothukudi
 site_side: true
-tags: thoothukudi
+tags: example-tag
 level: 3
 region: Asia
 currency: inr
