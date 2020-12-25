@@ -51,6 +51,11 @@ Email Format :
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
+## Past Events 
+
+1. <a href="https://youtu.be/oiaAoXlG39A">Awareness for school students of Vivekananda Vidhyasharam by Mr.Sriram, CTO of Primefort.</a>
+
+
 ## Follow Us
 
 1. <a href="https://www.instagram.com/owasp_thoothukudi">Instagram</a>
