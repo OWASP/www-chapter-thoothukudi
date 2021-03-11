@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Mail
 layout:  null
 tab: true
 order: 1
