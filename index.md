@@ -48,7 +48,7 @@ Email Format :
     - Presentation time required
 
 ## Local News
-<img src="/assets/images/poster.jpeg"> 
+<img src="assets/images/poster.jpeg"> 
 - Date 28th March 2021
 - Topic : Kick start into Bug Bounty
 - Speaker : Sriram (Google VRP Security Researcher), Founder & CEO of TG Cyberlabs
