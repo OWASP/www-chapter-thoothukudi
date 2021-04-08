@@ -48,17 +48,12 @@ Email Format :
     - Presentation time required
 
 ## Local News
-<img src="assets/images/poster.jpeg"> 
-- Date 28th March 2021
-- Topic : Kick start into Bug Bounty
-- Speaker : Sriram (Google VRP Security Researcher), Founder & CEO of TG Cyberlabs
-- Timing : 4.00 P.M. Onwards
-- For Registration :-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlw6Gcpg6T7YfS-OQYI20qgPLxvH2Vn9O7ukG3p0SusXl1Hg/viewform">Click Here</a>
+No upcoming events
 
 ## Past Events 
 
 1. <a href="https://youtu.be/oiaAoXlG39A">Awareness for school students of Vivekananda Vidhyasharam by Mr.Sriram, CTO of Primefort.</a>
+2. <a href="https://youtu.be/FrDcSvYxdCE">Kick Start into Bug Bounty by Mr. Sriram, Founder & CEO of TG Cyberlabs. </a>
 
 
 ## Follow Us
