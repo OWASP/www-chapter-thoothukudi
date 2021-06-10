@@ -3,7 +3,9 @@
 layout: col-sidebar
 title: OWASP Thoothukudi
 tags: example-tag
+meetup group: owasp-thoothukudi-meetup-group
 region: Asia
+
 
 ---
 
@@ -11,8 +13,6 @@ region: Asia
 
 OWASP Thoothukudi was founded on November 2020. We provide security conferences and talks to spread the awareness about cybersecurity to the people's here. We have planned to conduct numerous meetups, security conferences and talks about cybersecurity to the rural people to spread awareness about cybersecurity.
 
-
-</div>
 
 
 ## Welcome
@@ -55,6 +55,9 @@ Email Format :
 - Timing : 4.00 P.M. Onwards
 - For Registration :-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlw6Gcpg6T7YfS-OQYI20qgPLxvH2Vn9O7ukG3p0SusXl1Hg/viewform">Click Here</a>
+
+ {% include chapter_events.html group=page.meetup-group %}
+
 
 ## Past Events 
 
