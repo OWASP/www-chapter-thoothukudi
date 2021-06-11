@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Thoothukudi
 tags: example-tag
 region: Asia
+meetup group: owasp-thoothukudi-meetup-group
 
 ---
 
@@ -48,7 +49,7 @@ Email Format :
     - Presentation time required
 
 ## Local News
-No upcoming events
+ {% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events 
 
@@ -61,6 +62,3 @@ No upcoming events
 1. <a href="https://www.instagram.com/owasp_thoothukudi">Instagram</a>
 2. <a href="https://t.me/joinchat/LnJkLR21JVphRU-wSDjU2Q">Telegram</a>
 3. <a href="https://m.youtube.com/channel/UC66x4DdcE7x_IdR04gn7jBA">Youtube</a>
-
-### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=page.owasp-thoothukudi-meetup-group %}
