@@ -55,6 +55,7 @@ Email Format :
 
 1. <a href="https://youtu.be/oiaAoXlG39A">Awareness for school students of Vivekananda Vidhyasharam by Mr.Sriram, CTO of Primefort.</a>
 2. <a href="https://youtu.be/FrDcSvYxdCE">Kick Start into Bug Bounty by Mr. Sriram, Founder & CEO of TG Cyberlabs. </a>
+3. <a href="https://youtu.be/NR7NK7m55Ww">Side Channel Attacks by Mr. Sreeram, Google VRP Researcher</a>
 
 
 ## Follow Us
