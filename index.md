@@ -53,8 +53,7 @@ Email Format :
 - Topic : Kick start into Bug Bounty
 - Speaker : Sriram (Google VRP Security Researcher), Founder & CEO of TG Cyberlabs
 - Timing : 4.00 P.M. Onwards
-- For Registration :-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdlw6Gcpg6T7YfS-OQYI20qgPLxvH2Vn9O7ukG3p0SusXl1Hg/viewform">Click Here</a>
+
 
  {% include chapter_events.html group=page.meetup-group %}
 
