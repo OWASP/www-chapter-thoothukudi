@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Thoothukudi
-tags: example-tag
 meetup group: owasp-thoothukudi-meetup-group
 region: Asia
 
