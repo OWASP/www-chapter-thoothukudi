@@ -49,7 +49,7 @@ Email Format :
     - Presentation time required
 
 ## Local News
- {% include chapter_events.html group=page.meetup-group %}
+No events ongoing
 
 ## Past Events 
 
